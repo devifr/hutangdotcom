@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem "paperclip"
 gem 'devise'
+gem 'omniauth'
 gem 'cocoon'
 gem 'kaminari'
 gem 'therubyracer', :platforms => :ruby
@@ -53,4 +54,4 @@ end
 # gem 'capistrano', group: :development
 
 # Use debugger
-# gem 'debugger', group: [:development, :test]
+gem 'debugger', group: [:development, :test]
