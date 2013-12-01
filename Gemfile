@@ -30,7 +30,12 @@ gem 'jbuilder', '~> 1.2'
 
 gem "paperclip"
 gem 'devise'
+
+# omniouth for facebook
 gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'oauth2'
+
 gem 'cocoon'
 gem 'kaminari'
 gem 'therubyracer', :platforms => :ruby
