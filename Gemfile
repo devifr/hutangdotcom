@@ -33,8 +33,7 @@ gem 'devise'
 
 # omniouth for facebook
 gem 'omniauth'
-gem 'omniauth-facebook'
-gem 'oauth2'
+gem 'omniauth-facebook', '1.4.0'
 
 gem 'cocoon'
 gem 'kaminari'
